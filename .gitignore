@@ -1,0 +1,15 @@
+# Review reports, in case a review is run inside this repository
+review.html
+speculative-review.html
+
+# Editor backup, autosave and swap files
+*~
+\#*\#
+.#*
+*.bak
+*.orig
+*.rej
+*.swp
+*.swo
+*.tmp
+.*.sw?
